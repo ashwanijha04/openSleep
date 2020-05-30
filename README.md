@@ -4,6 +4,7 @@ The development of the hardware and software for this system started and most of
 
 ![Dormio](/images/dormio.jpg)
 
+https://www.media.mit.edu/projects/sleep-creativity/overview/
 
 ## Hardware
 
